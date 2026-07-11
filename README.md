@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0523-continuous-subarray-sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0523-continuous-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
