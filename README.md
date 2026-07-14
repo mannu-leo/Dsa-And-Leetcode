@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0009-palindrome-number) |
 | [0523-continuous-subarray-sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
