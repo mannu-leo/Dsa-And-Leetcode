@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2126-destroying-asteroids](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0016-3sum-closest) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2126-destroying-asteroids) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
