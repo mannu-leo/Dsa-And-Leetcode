@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0009-palindrome-number) |
 | [0523-continuous-subarray-sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
