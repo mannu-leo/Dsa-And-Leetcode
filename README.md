@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0016-3sum-closest) |
 | [0136-single-number](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0724-find-pivot-index) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -131,6 +133,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
