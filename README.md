@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0796-rotate-string) |
 ## Binary Search
