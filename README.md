@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
