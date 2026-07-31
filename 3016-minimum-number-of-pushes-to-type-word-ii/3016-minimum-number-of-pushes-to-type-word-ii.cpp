@@ -9,19 +9,10 @@ public:
         int ans=0;
         sort(freq,freq+26,greater<int>());
         for(int i=0;i<26;i++){
-            if(freq[i]>=1&&i<8){
-                ans+=freq[i]*1;
+            if(freq[i]==0){
+                break;
             }
-            else if(freq[i]>=1&&i<16){
-                ans+=freq[i]*2;
-            }
-            else if(freq[i]>=1&&i<24&&i>=16){
-                ans+=freq[i]*3;
-
-            }
-            else if(freq[i]>=1&&i>=24&&i<26){
-                ans+=freq[i]*4;
-            }
+            ans+=freq[i]*(i/8+1);
         }
         return ans;
 
