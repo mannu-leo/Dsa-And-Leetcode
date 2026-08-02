@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -204,4 +206,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
