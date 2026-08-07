@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
