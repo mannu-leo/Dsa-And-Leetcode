@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1323-maximum-69-number) |
+| [1922-count-good-numbers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -231,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
