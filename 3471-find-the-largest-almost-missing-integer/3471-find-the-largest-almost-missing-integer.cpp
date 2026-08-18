@@ -6,41 +6,24 @@ public:
         for(int i=0;i<n;i++){
             mp[nums[i]]++;
         }
-        int maxx=-1;
+        int ans=-1;
+        if(k==n){
+            return *max_element(nums.begin(),nums.end());
+        }
         if(k==1){
             for(int i=0;i<n;i++){
                 if(mp[nums[i]]==1){
-                    maxx=max(maxx,nums[i]);
+                    ans=max(ans,nums[i]);
                 }
             }
-            return maxx;
-        }
-        if(k==n){
-            int mx=*max_element(nums.begin(),nums.end());
-            return mx;
-        }
-        int n1=nums[0];
-        int n1_occ=0;
-        int n2=nums[n-1];
-        int n2_occ=0;
-        for(int i=0;i<nums.size();i++){
-            if(n1==nums[i]){
-                n1_occ+=1;
-            }
-            if(n2==nums[i]){
-                n2_occ+=1;
-            }
-        }
-        if(n1_occ==1&&n2_occ==1){
-            int ans=max(n1,n2);
             return ans;
         }
-        if(n1_occ>1&&n2_occ==1){
-            return n2;
+        if(mp[nums[0]]==1){
+            ans=max(ans,nums[0]);
         }
-        if(n2_occ>1&&n1_occ==1){
-            return n1;
+        if(mp[nums[n-1]]==1){
+            ans=max(ans,nums[n-1]);
         }
-        return -1;
+        return ans;
     }
 };
