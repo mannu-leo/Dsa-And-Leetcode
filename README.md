@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3731-find-missing-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
