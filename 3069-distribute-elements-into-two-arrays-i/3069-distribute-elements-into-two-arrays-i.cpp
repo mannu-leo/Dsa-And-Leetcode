@@ -17,14 +17,11 @@ public:
         }
         int n1=arr.size();
         int n2=arr1.size();
-        vector<int>result(n);
-        for(int i=0;i<n1;i++){
-            result[i]=arr[i];
-        }
+        
         for(int i=0;i<n2;i++){
-            result[n1+i]=arr1[i];
+            arr.push_back(arr1[i]);
         }
-        return result;
+        return arr;
 
         
     }
