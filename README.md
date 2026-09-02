@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [1922-count-good-numbers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1922-count-good-numbers) |
 ## Manacher
 |  |
@@ -263,5 +264,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
