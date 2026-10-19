@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2126-destroying-asteroids) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mannu-leo/Dsa-And-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
